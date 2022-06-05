@@ -40,22 +40,23 @@ List the ready features here:
 ### Home Screen
 
 
-
-| <img src="https://user-images.githubusercontent.com/70365178/172045684-5c660c03-b49e-44ce-9002-ea0270a8791d.png"> | 
+| <img src="[https://user-images.githubusercontent.com/70365178/172045684-5c660c03-b49e-44ce-9002-ea0270a8791d.png](https://user-images.githubusercontent.com/70365178/172049825-cb4763be-543b-41f5-9fbd-b6c6a045b623.png)"> | 
 | :----------------------------------------------: |
 | HOME |
 
 
-### Contact Table
-| <img src="https://user-images.githubusercontent.com/70365178/168467927-2b724fef-0f6a-4539-9ca4-dae99d631109.png"> | 
+
+### Message Encryption
+| <img src="[https://user-images.githubusercontent.com/70365178/168467927-2b724fef-0f6a-4539-9ca4-dae99d631109.png](https://user-images.githubusercontent.com/70365178/172049939-9f6d368b-82f9-4cf4-97bb-8f4f3adcba5b.png)"> | 
 | :----------------------------------------------: |
-| ADD & FILLED CONTACT TABLE |
+| ADD & ENCODE THE MESSAGE |
 
+![Decode message]()
 
-### Edit Contact
-| <img src="https://user-images.githubusercontent.com/70365178/168468061-0acf7e58-6ec8-45a8-bbd0-cf04a0b8962a.png"> | <img src="https://user-images.githubusercontent.com/70365178/168468064-4a850e1e-127f-4f78-a7d3-4045bf77d1e1.png"> | 
+### Message Decryption
+| <img src="[https://user-images.githubusercontent.com/70365178/168468061-0acf7e58-6ec8-45a8-bbd0-cf04a0b8962a.png"](https://user-images.githubusercontent.com/70365178/172050013-95712706-294b-419e-913f-d315fd3f25ce.png)> |  
 | :----------------------------------------------: | :--------------------------------------------: |
-| SELECT TO EDIT/DELETE | TABLE UPDATED |<!-- If you have screenshots you'd like to share, include them here. -->
+| TYPE THE CODE TO DECODE | DECODED MESSAGE |<!-- If you have screenshots you'd like to share, include them here. -->
 
 
 ## Setup
