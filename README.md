@@ -58,8 +58,8 @@ List the ready features here:
 
 ### Message Decryption
 | <img src="https://user-images.githubusercontent.com/70365178/172050718-5a42a702-fad7-4270-8c68-8c8e9311547b.png"> |  
-| :----------------------------------------------: | :--------------------------------------------: |
-| TYPE THE CODE TO DECODE | DECODED MESSAGE |<!-- If you have screenshots you'd like to share, include them here. -->
+| :----------------------------------------------: | 
+| TYPE THE CODE TO DECODE THE MESSAGE |
 
 
 ## Setup
